@@ -1,0 +1,1 @@
+cmd_/home/yeseo/embedded/embedded2021/moduleDrv01/hello_drv.ko := arm-linux-gnueabi-ld -EL -r  -T /home/yeseo/embedded/embedded2021/moduleDrv01/linux_kernel/scripts/module-common.lds --build-id  -o /home/yeseo/embedded/embedded2021/moduleDrv01/hello_drv.ko /home/yeseo/embedded/embedded2021/moduleDrv01/hello_drv.o /home/yeseo/embedded/embedded2021/moduleDrv01/hello_drv.mod.o
